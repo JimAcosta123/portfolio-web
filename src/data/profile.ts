@@ -10,7 +10,7 @@ export const profile = {
   location: 'Lima, Peru',
   email: 'jimkleberacostaacosta@gmail.com',
   githubUser: 'JimAcosta123',
-  linkedin: 'https://www.linkedin.com/in/TU_PERFIL',
+  linkedin: 'https://www.linkedin.com/in/JimboX',
   cvUrl: '',
 };
 
