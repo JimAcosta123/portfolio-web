@@ -1,10 +1,10 @@
 # Portfolio Web — Sitio personal (React + TypeScript + GitHub Pages)
 
-[![Deploy](https://github.com/TU_USUARIO/portfolio-web/actions/workflows/deploy.yml/badge.svg)](https://github.com/TU_USUARIO/portfolio-web/actions)
+[![Deploy](https://github.com/JimAcosta123/portfolio-web/actions/workflows/deploy.yml/badge.svg)](https://github.com/JimAcosta123/portfolio-web/actions)
 
 Sitio de portafolio personal, responsive y con tema claro/oscuro, que presenta mis proyectos, habilidades y datos de contacto. Se despliega automaticamente en **GitHub Pages** con cada push a `main`.
 
-**Sitio en vivo:** https://TU_USUARIO.github.io/portfolio-web/
+**Sitio en vivo:** https://JimAcosta123.github.io/portfolio-web/
 
 ## Caracteristicas
 
@@ -40,7 +40,7 @@ npm run preview      # sirve dist/ para revisarlo
 3. Haz push a `main`: el workflow `deploy.yml` construye el sitio con `VITE_BASE=/<nombre-del-repo>/` y lo publica.
 4. La URL final aparece en la pestana **Actions** y en Settings > Pages.
 
-> Si prefieres la URL raiz `https://TU_USUARIO.github.io/`, nombra el repo `TU_USUARIO.github.io` y cambia en `deploy.yml` la variable `VITE_BASE` a `/`.
+> Si prefieres la URL raiz `https://JimAcosta123.github.io/`, nombra el repo `JimAcosta123.github.io` y cambia en `deploy.yml` la variable `VITE_BASE` a `/`.
 
 ---
 Proyecto de portafolio de Jim Kleber Acosta Acosta, Desarrollador de Software (SENATI).
